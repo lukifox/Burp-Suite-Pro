@@ -1,16 +1,16 @@
 # Burp-Suite-Pro
 
 # Burp Prodessional Installation for Windows
-   --> Copy the downloaded files to C:\Burp.
+  1. Copy the downloaded files to C:\Burp.
        Make new directory "Burp" in C Drive for faster access.
-  --> Open Powershell and execute below command to set Script Execution Policy.
+  2. Open Powershell and execute below command to set Script Execution Policy.
 	    Set-ExecutionPolicy -ExecutionPolicy bypass -Scope process
-  --> Now Execute Windows_Setup.ps1 file in Powershell to Complete Installation.
+  3. Now Execute Windows_Setup.ps1 file in Powershell to Complete Installation.
 	    ./Windows_Setup.ps1
-  --> Change the icon of **Burp-Suite-Pro.vbs** to the given icon 
+  4. Change the icon of **Burp-Suite-Pro.vbs** to the given icon 
 	    Create a shortcut to Desktop. Right Click over **Burp-Suite-Pro.vbs** Go to Shortcut tab, and below there is **Change Icon** tab.
 	    Click there and choose the burp-suite.ico from C:\Burp\ 
-  --> For Start Menu Entry, copy **Burp-Suite-Pro.vbs** file to 
+  5. For Start Menu Entry, copy **Burp-Suite-Pro.vbs** file to 
     	C:\ProgramData\Microsoft\Windows\Start Menu\Programs\
 
 # Burp Suite Professional Installation steps for Kali-Linux
