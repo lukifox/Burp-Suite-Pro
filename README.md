@@ -24,5 +24,5 @@
   5. Copy license response from Keygenerator and paste in Burp Suite Pro, then next and Done.
 
 # Executing Burp Suite Profession after Activation
-  --> Windows :-: You can start Burp Suite Professional from Start Menu.
-  --> Kali Linux :-: You can start Burp Suite Professional by writing **burpsuite** in terminal.
+  1. --> Windows :-: You can start Burp Suite Professional from Start Menu.
+  2. --> Kali Linux :-: You can start Burp Suite Professional by writing **burpsuite** in terminal.
